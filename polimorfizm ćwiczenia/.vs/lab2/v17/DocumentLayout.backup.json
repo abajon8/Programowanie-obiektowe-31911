@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\programowanie c sharp\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{745ED966-4F59-4322-9869-CFB36598D046}|zadania2\\zadania2.csproj|c:\\users\\admin\\desktop\\programowanie c sharp\\lab2\\zadania2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745ED966-4F59-4322-9869-CFB36598D046}|zadania2\\zadania2.csproj|solutionrelative:zadania2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\programowanie c sharp\\lab2\\zadania2\\Program.cs",
+              "RelativeDocumentMoniker": "zadania2\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\programowanie c sharp\\lab2\\zadania2\\Program.cs*",
+              "RelativeToolTip": "zadania2\\Program.cs*",
+              "ViewState": "AgIAAHQAAAAAAAAAAADwv4cAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:01:32.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
